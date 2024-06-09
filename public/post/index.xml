@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on HueZhang Blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on HueZhang Blog</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 09 Jun 2024 19:22:10 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>日常发布blog命令</title>
+      <link>http://localhost:1313/post/%E6%97%A5%E5%B8%B8%E5%8F%91%E5%B8%83blog%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Sun, 09 Jun 2024 19:22:10 +0800</pubDate>
+      <guid>http://localhost:1313/post/%E6%97%A5%E5%B8%B8%E5%8F%91%E5%B8%83blog%E5%91%BD%E4%BB%A4/</guid>
+      <description> $ hugo new [posts]/[name]/index.md $ hugo server -D $ hugo $ git status $ git add . $ git commit -m &amp;#39;[描述信息]&amp;#39; $ git push origin </description>
+    </item>
+    <item>
+      <title>解决gitPermission denied</title>
+      <link>http://localhost:1313/post/%E8%A7%A3%E5%86%B3gitpermissiondenied/</link>
+      <pubDate>Sun, 09 Jun 2024 19:20:19 +0800</pubDate>
+      <guid>http://localhost:1313/post/%E8%A7%A3%E5%86%B3gitpermissiondenied/</guid>
+      <description>解决 git@github.com: Permission denied (publickey). vim ~/.ssh/id_rsa.pub copy the ssh key Go to the github settings Select the option ssh keys Remove the old ssh keys not used anymore. Add a new ssh key. 如果没有id_rsa.pub
+ssh-keygen -t rsa -C &amp;#34;xx@example.com&amp;#34; </description>
+    </item>
+  </channel>
+</rss>
