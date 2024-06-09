@@ -1,7 +1,7 @@
 +++
 title = '日常发布blog命令'
 date = 2024-06-09T19:22:10+08:00
-draft = true
+draft = false
 +++
 
 ```shell

@@ -1,7 +1,7 @@
 +++
 title = '解决gitPermission denied'
 date = 2024-06-09T19:20:19+08:00
-draft = true
+draft = false
 +++
 
 # 解决 git@github.com: Permission denied (publickey).
